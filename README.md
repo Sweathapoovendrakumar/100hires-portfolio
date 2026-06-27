@@ -19,6 +19,7 @@
 - Initially opened Windsurf instead of Cursor — realized the interface looked different, searched specifically for Cursor at cursor.com and opened the correct tool
 - Git was not recognized in Cursor's terminal — installed Git separately from git-scm.com and added it to system environment variables
 - Switched to creating the README directly on GitHub to avoid terminal issues
+- Claude and Codex Code extension requires a paid subscription to log in — installed the extension successfully but noted this as a limitation
 
 ## Reflection
 
