@@ -9,3 +9,4 @@
 | Ross Simmonds | Content Marketing | Focuses on AI-powered content distribution, promotion, and content marketing frameworks | Conference keynote transcript (~21 min) |
 | Lily Ray | Google Search & E-E-A-T | Shares insights on Google's quality systems, AI search, and E-E-A-T principles | LinkedIn posts on Google Search and AI |
 | Rand Fishkin | Search Marketing & Audience Research | Discusses zero-click search, audience behavior, and AI-driven search discovery | LinkedIn posts on search trends and audience research |
+| Michael King | AI Search, Technical SEO & Information Retrieval | Explains how AI search systems work, relevance engineering, and modern SEO strategies backed by technical research | YouTube interview transcript (~35 min) |
