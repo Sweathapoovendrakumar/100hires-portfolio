@@ -72,7 +72,7 @@ playbook-signals.md       → What this research means for 100Hires specifically
 
 After analyzing all 10 sources, one pattern emerged clearly:
 
-**The experts who are winning in AI search are not optimizing for keywords. They are optimizing for trust, structure, and distribution.**
+**Across the sources reviewed, a common pattern emerged: successful AI search strategies place greater emphasis on trust, content structure, and distribution than on keywords alone.**
 
 The full synthesis is in `/research/key-themes.md`.
 The implications for 100Hires are in `/research/playbook-signals.md`.
