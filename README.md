@@ -3,7 +3,7 @@
 **Topic:** AI-Powered SEO Content Production
 **Researcher:** Sweatha Poovendrakumar
 **Purpose:** Portfolio project — 100Hires Junior Growth Marketing Specialist
-**Status:** Research complete → Playbook-ready
+**Status:** Research complete 
 
 ---
 
