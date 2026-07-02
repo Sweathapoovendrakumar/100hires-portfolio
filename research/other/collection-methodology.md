@@ -29,14 +29,20 @@
 
 ## Expert Selection Process
 
-**Step 1 — Initial list:** Generated 20+ candidate names across AI SEO, content production, and B2B SaaS marketing.
+**Step 1 – Identify relevant experts**
 
-**Step 2 — Signal quality filter:** Each candidate evaluated against:
-- Does this person produce original research or document real results?
-- Are they among the first Google results for "AI SEO expert"? If yes, deprioritized.
-- Does their content directly address B2B SaaS use cases?
+I identified professionals who regularly share practical insights on AI SEO, content marketing, and B2B SaaS growth through YouTube, LinkedIn, and industry discussions.
 
-**Step 3 — Platform balance:** Final 10 ensures mix of YouTube creators, podcast hosts, and LinkedIn practitioners.
+**Step 2 – Review their content**
+
+Each expert was selected based on:
+- Practical experience in the field
+- Content that included real examples, case studies, or actionable insights
+- Relevance to AI-powered SEO and content production
+
+**Step 3 – Maintain a balanced mix**
+
+The final list includes YouTube creators, LinkedIn practitioners, and podcast speakers to provide different perspectives on the topic.tform balance:** Final 10 ensures mix of YouTube creators, podcast hosts, and LinkedIn practitioners.
 
 ## What Was Deliberately Excluded
 
