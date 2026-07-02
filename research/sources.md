@@ -20,7 +20,7 @@ Founder of The Search Initiative, a performance SEO agency. Known for running co
 **Why this source, not the obvious ones:**
 Most AI SEO content is theoretical. Diggity ran a real 6-month campaign for a real client and documented exactly what moved the needle. The result — 2,300% increase in AI referral traffic, appearing in 90+ AI overviews from zero — is verified, not estimated.
 
-**The one idea that stands out:**
+**Main insight:**
 AI systems don't rank websites. They rank passages. Writing direct, structured, conversational content that immediately answers a question is now more important than domain authority.
 
 **Transcript location:** `/research/youtube-transcripts/matt-diggity.md`
@@ -38,7 +38,7 @@ Founder of Foundation Marketing, a B2B content agency. Author of Create Once, Di
 **Why this source, not the obvious ones:**
 He pulled traffic data on CNET's AI-written content and found it generated 24 million annual visits and $1.3M in traffic value. His research on which platforms LLMs actually cite — YouTube and Reddit dominate; G2 and Capterra are declining fast — is directly actionable.
 
-**The one idea that stands out:**
+**Main insight:**
 Reddit and YouTube are now cited more frequently in AI Overviews than most B2B review sites. Companies investing thousands in G2 listings while ignoring Reddit are misallocating their content budgets.
 
 **Transcript location:** `/research/youtube-transcripts/ross-simmonds.md`
@@ -56,7 +56,7 @@ Growth advisor to fast-growing tech companies. Former VP SEO at Shopify, G2, and
 **Why this source, not the obvious ones:**
 Indig ran a structured study with 70 participants across different age groups, observing how real users interact with AI Overviews while completing real tasks. The findings challenge most assumptions about AI killing SEO.
 
-**The one idea that stands out:**
+**Main insight:**
 80% of users still get their final answer from classic organic results, not AI Overviews. Users click through to verify, not to discover. Brand trust and authority now matter more than ever — not less.
 
 **Transcript location:** `/research/youtube-transcripts/kevin-indig.md`
@@ -74,7 +74,7 @@ Host of Search with Candour, one of the most respected independent SEO podcasts 
 **Why this source, not the obvious ones:**
 Every other source tells you to use AI more. Chambers-Ward asks the harder question: are you using it because it actually saves substantial time, or because you feel pressure to? His discussion of the efficiency paradox is something no vendor-backed content will ever say.
 
-**The one idea that stands out:**
+**Main insight:**
 51.7% of professionals use LLMs for research. But the practitioners getting the best results treat AI as a collaborator with human oversight at every step — never as a replacement for judgment.
 
 **Transcript location:** `/research/youtube-transcripts/jack-chambers-ward.md`
@@ -92,7 +92,7 @@ Co-founder of Authority Hacker, one of the largest SEO training platforms. Has r
 **Why this source, not the obvious ones:**
 Breton does not say AI content works or does not work. He shows exactly when it works and when it fails. His method of using Whisper to transcribe YouTube videos and podcasts, then extracting information gain that Google has never indexed, is a genuinely differentiated content production workflow.
 
-**The one idea that stands out:**
+**Main insight:**
 The best AI content workflows don't use AI to write. They use AI to research — extracting insights from video and audio sources that have never been turned into text, then building articles around information that doesn't exist anywhere else on the web.
 
 **Transcript location:** `/research/youtube-transcripts/gael-breton.md`
@@ -110,7 +110,7 @@ Founder of iPullRank. Named Search Marketer of the Year 2025. Author of the upco
 **Why this source, not the obvious ones:**
 King introduced Relevance Engineering — the idea that modern SEO requires understanding how AI retrieval systems actually work at a technical level, not just following best practice checklists. His discovery that AI crawlers issue 499 response codes when pages load too slowly — disqualifying them from AI search entirely — is the kind of insight that only comes from deep technical investigation.
 
-**The one idea that stands out:**
+**Main insight:**
 Almost all SEO software is built on lexical (keyword-counting) analysis. But Google has been semantic (meaning-based) since 2013. This gap between the tools we use and how search actually works explains why following best practices increasingly produces inconsistent results.
 
 **Transcript location:** `/research/youtube-transcripts/mike-king.md`
@@ -129,7 +129,7 @@ Almost all SEO software is built on lexical (keyword-counting) analysis. But Goo
 **Why this source, not the obvious ones:**
 Kurichenko is documenting her own brand's AI visibility journey in real time — including a domain migration and what happened to her LLM citations as a result. This is primary source material, not advice.
 
-**The one idea that stands out:**
+**Main insight:**
 "The future of SEO is about teaching AI who you are." Ranking #1 is no longer the goal. Being consistently understood and recommended by AI platforms is.
 
 **Post location:** `/research/linkedin-posts/victoria-kurichenko.md`
@@ -144,7 +144,7 @@ Kurichenko is documenting her own brand's AI visibility journey in real time —
 **Why this source, not the obvious ones:**
 Goodey runs one of the few SEO consultancies explicitly built for B2B SaaS companies navigating AI search. His content is tactical and immediately replicable.
 
-**The one idea that stands out:**
+**Main insight:**
 The highest-leverage SEO action for most B2B SaaS sites is not new content. It is internal links from their highest-authority existing pages to their highest-intent pages. Two to three links can move a page that months of new content cannot.
 
 **Post location:** `/research/linkedin-posts/ben-goodey.md`
@@ -159,7 +159,7 @@ The highest-leverage SEO action for most B2B SaaS sites is not new content. It i
 **Why this source, not the obvious ones:**
 Every other expert covers tactics. Oberstein covers the organizational dimension — why most marketing teams cannot execute AI-era content strategies even when they understand them.
 
-**The one idea that stands out:**
+**Main insight:**
 Internal communication is the most underrated marketing strategy right now. Teams breaking silos and communicating cross-functionally are outperforming teams with better tactics but worse coordination.
 
 **Post location:** `/research/linkedin-posts/mordy-oberstein.md`
@@ -174,7 +174,7 @@ Internal communication is the most underrated marketing strategy right now. Team
 **Why this source, not the obvious ones:**
 Long shared Similarweb clickstream data — actual user behavior tracked across 7 days after ChatGPT interaction — not a survey or an estimate.
 
-**The one idea that stands out:**
+**Main insight:**
 55% of AI-influenced website visits are attributed to Search in analytics. Users who arrive via AI influence spend 2x more time on site and view 2x more pages. AI traffic is not replacing search traffic. It is making search traffic better.
 
 **Post location:** `/research/linkedin-posts/chris-long.md`
