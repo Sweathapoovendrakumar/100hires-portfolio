@@ -180,11 +180,3 @@ Long shared Similarweb clickstream data — actual user behavior tracked across 
 **Post location:** `/research/linkedin-posts/chris-long.md`
 
 ---
-
-## Selection Criteria
-
-These 10 were chosen by filtering against three questions:
-
-1. Does this person build real things or just comment on them?
-2. Is this the first result on Google for "AI SEO expert"? If yes, deprioritized.
-3. Could this content directly support a B2B SaaS content playbook?
