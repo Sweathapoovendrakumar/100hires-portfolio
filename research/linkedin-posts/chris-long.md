@@ -2,7 +2,7 @@
 
 **Profile:** https://www.linkedin.com/in/chrislong/
 **Role:** Co-founder, Nectiv | AEO/SEO for B2B and Technology Brands
-**Post Date:** July 2, 2026
+**Post Date:** July 1, 2026
 **Collected:** July 2026
 
 ---
