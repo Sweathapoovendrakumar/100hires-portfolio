@@ -22,8 +22,8 @@
 **Posts collected:**
 - Victoria Kurichenko (June 30, 2026)
 - Ben Goodey (June 27, 2026)
-- Mordy Oberstein (July 2, 2026)
-- Chris Long (July 2, 2026)
+- Mordy Oberstein (July 1, 2026)
+- Chris Long (July 1, 2026)
 
 ---
 
